@@ -1,0 +1,2 @@
+# juegopreguntas
+Inicio del repositorio 
